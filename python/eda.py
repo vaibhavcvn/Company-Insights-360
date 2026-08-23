@@ -28,7 +28,7 @@ plt.ylabel("Total Sales")
 
 plt.tight_layout()
 plt.savefig("outputs/sales_by_region.png")
-plt.show()
+
 
 
 # ==========================================
@@ -46,7 +46,7 @@ plt.ylabel("Total Sales")
 
 plt.tight_layout()
 plt.savefig("outputs/sales_by_category.png")
-plt.show()
+
 
 
 # ==========================================
@@ -64,7 +64,7 @@ plt.ylabel("Total Profit")
 
 plt.tight_layout()
 plt.savefig("outputs/profit_by_region.png")
-plt.show()
+
 
 
 # ==========================================
@@ -86,7 +86,7 @@ plt.ylabel("Average Performance Score")
 
 plt.tight_layout()
 plt.savefig("outputs/department_performance.png")
-plt.show()
+
 
 
 # ==========================================
@@ -108,7 +108,7 @@ plt.ylabel("Sales")
 
 plt.tight_layout()
 plt.savefig("outputs/monthly_sales.png")
-plt.show()
+
 
 
 # ==========================================
@@ -129,7 +129,7 @@ plt.ylabel("Profit")
 
 plt.tight_layout()
 plt.savefig("outputs/discount_vs_profit.png")
-plt.show()
+
 
 
 print("\nEDA completed successfully.")
