@@ -71,7 +71,7 @@ Company-Insights-360/
 |
 +-- screenshots/
 |   +-- dashboard.png
-|   +-- buisness-insights.png
+|   +-- business-insights.png
 |
 +-- Company_Insights_360.pbix
 +-- requirements.txt
